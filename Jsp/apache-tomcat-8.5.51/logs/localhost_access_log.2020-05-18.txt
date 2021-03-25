@@ -1,0 +1,12 @@
+127.0.0.1 - - [18/May/2020:10:19:13 +0900] "GET / HTTP/1.1" 200 11414
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:19:15 +0900] "GET /Practice/02-05login.jsp HTTP/1.1" 200 300
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:19:49 +0900] "GET /Practice/02-05login.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:19:56 +0900] "GET /Practice/02-05Login_check.jsp?Id=admin&Password=asdfsd HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:19:56 +0900] "GET /Practice/02-06AdminMode.jsp HTTP/1.1" 200 155
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:20:13 +0900] "GET /Practice/02-05login.jsp HTTP/1.1" 200 314
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:20:45 +0900] "GET /Practice/02-05login.jsp HTTP/1.1" 200 331
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:20:58 +0900] "GET /Practice/02-05login.jsp HTTP/1.1" 200 338
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:21:06 +0900] "GET /Practice/02-05Login_check.jsp?Id=admin&Password=asdfg HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:21:07 +0900] "GET /Practice/02-06AdminMode.jsp HTTP/1.1" 200 155
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:21:12 +0900] "GET /Practice/02-05login.jsp HTTP/1.1" 200 338
+0:0:0:0:0:0:0:1 - - [18/May/2020:10:21:15 +0900] "GET /Practice/02-05Login_check.jsp?Id=asdfe&Password=asdf HTTP/1.1" 200 168

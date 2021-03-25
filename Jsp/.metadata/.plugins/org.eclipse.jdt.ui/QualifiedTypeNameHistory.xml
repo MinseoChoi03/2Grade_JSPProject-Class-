@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="org.apache.commons.dbcp2.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.apache.commons.dbcp2.DriverManagerConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.apache.commons.dbcp2.PoolableConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.apache.commons.pool2.impl.GenericObjectPoolConfig"/>
+    <fullyQualifiedTypeName name="org.apache.commons.pool2.impl.GenericObjectPool"/>
+    <fullyQualifiedTypeName name="org.apache.commons.dbcp2.PoolableConnection"/>
+    <fullyQualifiedTypeName name="org.apache.commons.dbcp2.PoolingDriver"/>
+    <fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>
